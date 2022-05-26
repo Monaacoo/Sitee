@@ -1,0 +1,56 @@
+body {
+    background: #3D0000;
+    background-image: url("https://www.fluentu.com/blog/english-por-br/wp-content/uploads/sites/35/2015/09/english-for-travelers.jpg");
+    background-size: cover;
+    color: #FF0000;
+}
+
+.header {
+text-align: center;
+padding: 10px;
+font-size: 28px;
+}
+
+.nav {
+    text-align: center;
+    background: #ffff;
+    font-size: 20px;
+    color: #950101;
+    padding: 20px;
+}
+
+a {
+    margin: 30px;
+    text-decoration: none;
+    border: double;
+}
+
+.main{
+    margin: 30px auto;
+    background: #064663;
+    box-shadow: 4px 4px 8px #B91646;
+    width: 800px;
+}
+
+.post{
+        border-bottom: 1px  solid #ffff;
+        
+}
+
+.post-title{
+    color: #FFC4E1;
+    font-size: 24px;
+    text-align: center;
+}
+
+.post-content{
+    color: #FF87CA;
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    
+}
+
+.post-content img{
+    padding: 0 15vw;
+}

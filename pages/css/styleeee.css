@@ -1,0 +1,55 @@
+body {
+    background: #3D0000;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmLPRocpcfX3Zg9VVR-NnW3-eKD_thsEgQ0Ajj_a7c63Mys31RMoDmCX3n4d0nNit3SI4&usqp=CAU");
+    color: #FF0000;
+}
+
+.header {
+text-align: center;
+padding: 10px;
+font-size: 28px;
+}
+
+.nav {
+    text-align: center;
+    background: #39A388;
+    font-size: 20px;
+    color: #950101;
+    padding: 20px;
+}
+
+a {
+    margin: 30px;
+    text-decoration: none;
+    border: dotted;
+}
+
+.main{
+    margin: 30px auto;
+    background: #1E5128;
+    box-shadow: 4px 4px 8px #ffff;
+    width: 800px;
+}
+
+.post{
+        border-bottom: 1px  solid #ffff;
+        
+}
+
+.post-title{
+    color: #091353;
+    font-size: 24px;
+    text-align: center;
+}
+
+.post-content{
+    color: #191A19;
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    
+}
+
+.post-content img{
+    padding: 0 15vw;
+}

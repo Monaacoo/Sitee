@@ -1,0 +1,52 @@
+body {
+    background: #ffff;
+    background-image: url("https://http2.mlstatic.com/D_NQ_NP_625334-MLB25692009122_062017-O.jpg");
+    background-size: cover;
+    color: #ffff;
+}
+
+.header {
+text-align: center;
+padding: 10px;
+font-size: 28px;
+}
+
+.nav {
+    text-align: center;
+    background: #1572A1;
+    font-size: 20px;
+    color: #950101;
+    padding: 20px;
+}
+
+a {
+    margin: 30px;
+    text-decoration: none;
+    border: inset;
+}
+
+.main{
+    margin: 30px auto;
+    background: #041562;
+    box-shadow: 4px 4px 8px #ffff;
+    width: 800px;
+}
+
+.post{
+        border-bottom: 1px  solid #ffff;
+        
+}
+
+.post-title{
+    color: #ffff;
+    font-size: 22px;
+    text-align: center;
+}
+
+.post-content{
+    color: #7C99AC;
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    
+}
